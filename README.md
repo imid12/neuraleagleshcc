@@ -1,4 +1,4 @@
-# NeuralEagleSHCC
+# Neural Eagles HCC
 
 This repository is dedicated to the group project HCC.
 
